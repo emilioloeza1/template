@@ -129,7 +129,6 @@ experiences:
 
 projects:
   title: Proyectos
-  
   - title: Sistema de Gestión de Inventarios en la Nube
     link: "#hook"
     tagline: "Desarrollo de una plataforma web para gestionar inventarios en tiempo real para pequeñas y medianas empresas. "
