@@ -92,45 +92,39 @@ education:
         - Bullet point
 
 experiences:
-  title: Experiences
+  title: Experiencia
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Analista de Seguridad Informática
+    time: 2017 - 2020
+    company: SecureNet Technologies
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+      En SecureNet Technologies, me desempeñé como Analista de Seguridad, donde me encargué de realizar auditorías
+      de seguridad y pruebas de penetración en redes y aplicaciones. Implementé soluciones de protección contra 
+      ciberamenazas y diseñé estrategias para fortalecer la infraestructura tecnológica de nuestros clientes.
+      Mi equipo y yo logramos reducir incidentes de seguridad en un 50% mediante la implementación de políticas
+      de seguridad más estrictas y herramientas de monitoreo avanzadas.
+     
+  - role: Ingeniero de Infraestructura y Cloud
+    time: 2020 - 2021
+    company: CloudTech Solutions
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+      En CloudTech Solutions, trabajé como Ingeniero de Infraestructura, donde lideré la migración de sistemas 
+      locales a plataformas en la nube como AWS y Azure. Mi rol incluyó la configuración y administración de 
+      entornos virtualizados, así como la optimización de costos y el aumento de la eficiencia de las operaciones
+      al automatizar procesos mediante herramientas como Terraform y Jenkins.
+      Esta experiencia mejoró el rendimiento de los sistemas de nuestros clientes y redujo los tiempos de inactividad
+      en un 40%.
+    
+  - role: Desarrollador de Software Full Stack
+    time: 2021 - 2023
+    company: Tech Innovations Ltd.
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Como desarrollador Full Stack en Tech Innovations Ltd., trabajé en la creación y mantenimiento de plataformas web
+      escalables para clientes en el sector financiero. Utilicé tecnologías como React, Node.js y MongoDB para desarrollar
+      aplicaciones que mejoraron la experiencia del usuario y optimizaron la gestión de datos. 
+      Colaboré estrechamente con los equipos de diseño y producto para asegurar una integración fluida entre el front-end y
+      el back-end.
+    
 
 
 projects:
