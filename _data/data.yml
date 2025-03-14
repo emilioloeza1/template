@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: Emilio Loeza
-  tagline: Web Application Development
+  tagline: Desarrollo de Aplicaciones Web
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -31,34 +31,34 @@ sidebar:
   leetcode: # Please provide your LeetCode username.
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
-  languages:
-    title: Languages
+  lenguajes:
+    title: Lenguajes
     info:
-    - idiom: Spanish
-      level: Native
+    - idiom: Español  
+      level: Nativo
 
-    - idiom: French
-      level: Professional
+    - idiom: Francés
+      level: Profesional
 
 
 
   interests:
-    title: Interests
+    title: Intereses
     info:
-    - item: Climbing
+    - item: Escuchar música
       link:
 
 
-    - item: Snowboarding
+    - item: Jugar
       link:
 
 
-    - item: Cooking
+    - item: Cocinar
       link:
 
 
 career-profile:
-  title: Career Profile
+  title: Perfil profesional
   summary: |
     Summarise your career here lorem ipsum dolor sit amet, consectetuer
     adipiscing elit. You can [download this free resume/CV template here]().
@@ -67,9 +67,9 @@ career-profile:
     Donec quam felis, ultricies nec, pellentesque eu.
     Second paragraph if required.
 education:
-  title: Education
+  title: Educación
   info:
-  - degree: Computer Support and Maintenance
+  - degree: Soporte y Mantenimiento de Equipo de Cómputo
     university: CBTIS111
     time: 2018 - 2021
     details: |
@@ -80,9 +80,9 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+  - degree: Ing. en Sistemas Computacionales
+    university: ITC Cancún
+    time: 2021 - Actualmente
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -199,84 +199,29 @@ projects:
     link: "#"
     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
-
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
-
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
-
-      He is a great employee!
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
   - name: Python & Django
-    level: 98%
+    level: 5%
 
   - name: Javascript & jQuery
-    level: 98%
+    level: 5%
 
   - name: Angular
-    level: 98%
+    level: 0%
 
   - name: HTML5 & CSS
-    level: 95%
+    level: 90%
 
   - name: Ruby on Rails
-    level: 85%
+    level: 0%
 
   - name: Sketch & Photoshop
-    level: 60%
+    level: 80%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
